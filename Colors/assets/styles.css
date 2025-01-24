@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+.color-title {
+  text-transform: capitalize;
+}
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
